@@ -9,13 +9,13 @@
     "crypto"
   ],
   "author": "WalletConnect <walletconnect.org>",
-  "homepage": "https://walletconnect.org",
+  "homepage": "https://buidlhub.github.io/walletconnect-example-dapp/",
   "license": "LGPL-3.0",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts-ts start",
-    "build": "react-scripts-ts build",
+    "build": "PUBLIC_URL=https://buidlhub.github.io/walletconnect-example-dapp/ react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject",
     "lint": "eslint -c './.eslintrc' --fix './src/**/*{.ts,.tsx}'"
