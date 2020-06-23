@@ -13,7 +13,7 @@
   "license": "LGPL-3.0",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --branch buidlhub-custom-bridge",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
