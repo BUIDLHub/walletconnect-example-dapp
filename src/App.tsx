@@ -155,6 +155,8 @@ const INITIAL_STATE: IAppState = {
   assets: [],
 };
 
+const BRIDGE_ADDRESS = "https://walletconnect.buidlhub.com";
+
 class App extends React.Component<any, any> {
   public state: IAppState = {
     ...INITIAL_STATE,
@@ -162,7 +164,7 @@ class App extends React.Component<any, any> {
 
   public walletConnectInit = async () => {
     // bridge url
-    const bridge = "https://bridge.walletconnect.org";
+    const bridge = BRIDGE_ADDRESS;
 
     // create new connector
     const connector = new WalletConnect({ bridge });
@@ -478,6 +480,8 @@ class App extends React.Component<any, any> {
     return (
       <SLayout>
         <Column maxWidth={1000} spanHeight>
+          <h3>BUIDLHub Wallet Connect Demo</h3>
+          <h5>Bridge: {BRIDGE_ADDRESS}</h5>
           <Header
             connected={connected}
             address={address}
