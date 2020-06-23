@@ -1,15 +1,15 @@
 {
-  "main.js": "/static/js/main.35c5a0bc.chunk.js",
-  "main.js.map": "/static/js/main.35c5a0bc.chunk.js.map",
-  "static/js/1.81a21efa.chunk.js": "/static/js/1.81a21efa.chunk.js",
-  "static/js/1.81a21efa.chunk.js.map": "/static/js/1.81a21efa.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/walletconnect-banner.png": "/static/media/walletconnect-banner.e1cb8d21.png",
-  "static/media/erc20.svg": "/static/media/erc20.90607899.svg",
-  "static/media/eth.svg": "/static/media/eth.e3ce54ef.svg",
-  "static/media/xdai.png": "/static/media/xdai.e37299a8.png",
-  "index.html": "/index.html",
-  "precache-manifest.365bacfd262f036a2f10785b52ebec75.js": "/precache-manifest.365bacfd262f036a2f10785b52ebec75.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/main.9e3bf219.chunk.js",
+  "main.js.map": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/main.9e3bf219.chunk.js.map",
+  "static/js/1.f84c2f12.chunk.js": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/1.f84c2f12.chunk.js",
+  "static/js/1.f84c2f12.chunk.js.map": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/1.f84c2f12.chunk.js.map",
+  "runtime~main.js": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/runtime~main.4f011a91.js",
+  "runtime~main.js.map": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/runtime~main.4f011a91.js.map",
+  "static/media/walletconnect-banner.png": "https://buidlhub.github.io/walletconnect-example-dapp/static/media/walletconnect-banner.e1cb8d21.png",
+  "static/media/erc20.svg": "https://buidlhub.github.io/walletconnect-example-dapp/static/media/erc20.90607899.svg",
+  "static/media/eth.svg": "https://buidlhub.github.io/walletconnect-example-dapp/static/media/eth.e3ce54ef.svg",
+  "static/media/xdai.png": "https://buidlhub.github.io/walletconnect-example-dapp/static/media/xdai.e37299a8.png",
+  "index.html": "https://buidlhub.github.io/walletconnect-example-dapp/index.html",
+  "precache-manifest.eda51117ccef764a7dc2b869844900fc.js": "https://buidlhub.github.io/walletconnect-example-dapp/precache-manifest.eda51117ccef764a7dc2b869844900fc.js",
+  "service-worker.js": "https://buidlhub.github.io/walletconnect-example-dapp/service-worker.js"
 }
