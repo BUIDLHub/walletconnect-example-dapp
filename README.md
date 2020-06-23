@@ -1,19 +1,20 @@
 # WalletConnect Example Dapp
 
+NOTE: Do not use yarn, otherwise you will get a circiular dependency error related to typescript during build/start!
+
 ## Develop
 
-```bash
-yarn start
+```banpm start
 ```
 
 ## Test
 
 ```bash
-yarn test
+npm test
 ```
 
 ## Build
 
 ```bash
-yarn build
+npm build
 ```
