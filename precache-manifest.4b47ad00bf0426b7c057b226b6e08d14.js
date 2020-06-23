@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "81f6141859a20d1079a1",
-    "url": "/walletconnect-example-dapp/static/js/main.81f61418.chunk.js"
+    "revision": "5b868eda3ec7d1b5b875",
+    "url": "/walletconnect-example-dapp/static/js/main.5b868eda.chunk.js"
   },
   {
-    "revision": "caa84988b22bc5b5cba4",
-    "url": "/walletconnect-example-dapp/static/js/1.caa84988.chunk.js"
+    "revision": "724f7ce75acbd0945b42",
+    "url": "/walletconnect-example-dapp/static/js/1.724f7ce7.chunk.js"
   },
   {
     "revision": "b9fb507d40c767f08e4e",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/walletconnect-example-dapp/static/media/xdai.e37299a8.png"
   },
   {
-    "revision": "543578262123bd23c03effeb94953100",
+    "revision": "cdc4fc1fb826df4a189c8954655b80dd",
     "url": "/walletconnect-example-dapp/index.html"
   }
 ];
