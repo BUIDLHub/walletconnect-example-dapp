@@ -11,11 +11,11 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://buidlhub.github.io/walletconnect-example-dapp/workbox-v3.6.3/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "https://buidlhub.github.io/walletconnect-example-dapp/workbox-v3.6.3"});
+importScripts("/walletconnect-example-dapp/workbox-v3.6.3/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/walletconnect-example-dapp/workbox-v3.6.3"});
 
 importScripts(
-  "https://buidlhub.github.io/walletconnect-example-dapp/precache-manifest.eda51117ccef764a7dc2b869844900fc.js"
+  "/walletconnect-example-dapp/precache-manifest.582e34fdce22be967736a86a94d8497f.js"
 );
 
 workbox.clientsClaim();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://buidlhub.github.io/walletconnect-example-dapp/index.html", {
+workbox.routing.registerNavigationRoute("/walletconnect-example-dapp/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

@@ -1,15 +1,15 @@
 {
-  "main.js": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/main.9e3bf219.chunk.js",
-  "main.js.map": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/main.9e3bf219.chunk.js.map",
-  "static/js/1.f84c2f12.chunk.js": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/1.f84c2f12.chunk.js",
-  "static/js/1.f84c2f12.chunk.js.map": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/1.f84c2f12.chunk.js.map",
-  "runtime~main.js": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/runtime~main.4f011a91.js",
-  "runtime~main.js.map": "https://buidlhub.github.io/walletconnect-example-dapp/static/js/runtime~main.4f011a91.js.map",
-  "static/media/walletconnect-banner.png": "https://buidlhub.github.io/walletconnect-example-dapp/static/media/walletconnect-banner.e1cb8d21.png",
-  "static/media/erc20.svg": "https://buidlhub.github.io/walletconnect-example-dapp/static/media/erc20.90607899.svg",
-  "static/media/eth.svg": "https://buidlhub.github.io/walletconnect-example-dapp/static/media/eth.e3ce54ef.svg",
-  "static/media/xdai.png": "https://buidlhub.github.io/walletconnect-example-dapp/static/media/xdai.e37299a8.png",
-  "index.html": "https://buidlhub.github.io/walletconnect-example-dapp/index.html",
-  "precache-manifest.eda51117ccef764a7dc2b869844900fc.js": "https://buidlhub.github.io/walletconnect-example-dapp/precache-manifest.eda51117ccef764a7dc2b869844900fc.js",
-  "service-worker.js": "https://buidlhub.github.io/walletconnect-example-dapp/service-worker.js"
+  "main.js": "/walletconnect-example-dapp/static/js/main.81f61418.chunk.js",
+  "main.js.map": "/walletconnect-example-dapp/static/js/main.81f61418.chunk.js.map",
+  "static/js/1.caa84988.chunk.js": "/walletconnect-example-dapp/static/js/1.caa84988.chunk.js",
+  "static/js/1.caa84988.chunk.js.map": "/walletconnect-example-dapp/static/js/1.caa84988.chunk.js.map",
+  "runtime~main.js": "/walletconnect-example-dapp/static/js/runtime~main.b9fb507d.js",
+  "runtime~main.js.map": "/walletconnect-example-dapp/static/js/runtime~main.b9fb507d.js.map",
+  "static/media/walletconnect-banner.png": "/walletconnect-example-dapp/static/media/walletconnect-banner.e1cb8d21.png",
+  "static/media/erc20.svg": "/walletconnect-example-dapp/static/media/erc20.90607899.svg",
+  "static/media/eth.svg": "/walletconnect-example-dapp/static/media/eth.e3ce54ef.svg",
+  "static/media/xdai.png": "/walletconnect-example-dapp/static/media/xdai.e37299a8.png",
+  "index.html": "/walletconnect-example-dapp/index.html",
+  "precache-manifest.582e34fdce22be967736a86a94d8497f.js": "/walletconnect-example-dapp/precache-manifest.582e34fdce22be967736a86a94d8497f.js",
+  "service-worker.js": "/walletconnect-example-dapp/service-worker.js"
 }
